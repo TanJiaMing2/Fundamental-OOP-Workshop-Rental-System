@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=WorkshopRental
+comment1.params=workshopId\ customerId\ payment
+comment1.target=WorkshopRental(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getcustomer_name()
+comment3.params=
+comment3.target=java.lang.String\ getcustomer_id()
+comment4.params=
+comment4.target=int\ gettPayment()
+comment5.params=
+comment5.target=void\ setRentalDetails()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

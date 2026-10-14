@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Workshop
+comment1.params=name\ location\ date\ organizer
+comment1.target=Workshop(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getWorkshop_id()
+comment3.params=
+comment3.target=java.lang.String\ getWorkshop()
+comment4.params=
+comment4.target=java.lang.String\ getLocation()
+comment5.params=
+comment5.target=void\ setWorkshopDetails()
+comment6.params=
+comment6.target=void\ setRentalDetails()
+comment7.params=
+comment7.target=WorkshopRental\ getRental()
+comment8.params=
+comment8.target=double\ calcrentalRate()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

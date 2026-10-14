@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=equipments
+comment1.params=
+comment1.target=equipments()
+comment2.params=
+comment2.target=void\ equipmentlist()
+comment3.params=
+comment3.target=void\ resizeArray()
+comment4.params=
+comment4.target=java.lang.String[]\ getEquipmentList()
+numComments=5
